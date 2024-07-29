@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 14px;
+}
+
+body {
+  display: grid;
+  place-content: center;
+}
+
+.product-card {
+  border-radius: 1rem;
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+  margin-bottom: 1rem;
+}
+
+.thumbnail {
+  border-radius: 1rem 1rem 0 0;
+  width: 100%;
+}
+
+.product-info {
+  padding: 1rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
