@@ -118,13 +118,14 @@ p {
 
 @media screen and (min-width: 375px) {
   .product-card {
+    border-radius: 0.5rem;
     flex-direction: row;
   }
 
   .thumbnail {
     content: url(./images/image-product-desktop.jpg);
     width: 50%;
-    border-radius: 1rem 0 0 1rem;
+    border-radius: 0.5rem 0 0 0.5rem;
   }
 
   .product-info {
