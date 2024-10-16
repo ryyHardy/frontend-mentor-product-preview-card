@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: // [Add solution URL here](https://your-solution-url.com)
+- Solution URL: 
 - Live Site URL: [https://ryyhardy.github.io/frontend-mentor-product-preview-card/](https://ryyhardy.github.io/frontend-mentor-product-preview-card/)
 
 ## My process
